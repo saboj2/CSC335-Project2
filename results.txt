@@ -1,0 +1,13 @@
+kmin_heap:
+input_10.txt 0.013680 s
+input_100.txt 0.013769 s
+input_1000.txt 0.013769 s
+input_10000.txt 0.017174 s
+input_100000.txt 0.044440 s
+
+kmin_sort:
+input_10.txt 0.019576 s
+input_100.txt 0.019831 s
+input_1000.txt 0.019684 s
+input_10000.txt 0.019358 s
+input_100000.txt 0.019696 s
